@@ -1,3 +1,3 @@
-# api-zabbix
+## Zabbix API
 
-API Zabbix para cadastrar Hosts com Inventário 
+**Zabbix API para cadastrar Host com Inventário**
