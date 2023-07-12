@@ -2,4 +2,6 @@
 
 **Zabbix API para cadastrar Host com Inventário**
 
-`pip install zabbix_api `
+`
+pip install zabbix_api 
+`
