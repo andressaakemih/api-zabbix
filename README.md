@@ -1,12 +1,7 @@
 ## Zabbix API
 
-**Zabbix API para cadastrar Host com Inventário**
-
-`
-pip install zabbix_api 
-`
-Status: In progress
-files: https://www.zabbix.com/documentation/6.0/en/manual/api, https://www.youtube.com/watch?v=geCC8TupE8w&t=2280s
+Documentação: https://www.zabbix.com/documentation/6.0/en/manual/api
+Vídeo: https://www.youtube.com/watch?v=geCC8TupE8w&t=2280s
 
 ## Passos:
 
