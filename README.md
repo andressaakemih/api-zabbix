@@ -1,7 +1,7 @@
 ## Zabbix API
 
-Documentação: https://www.zabbix.com/documentation/6.0/en/manual/api
-Vídeo: https://www.youtube.com/watch?v=geCC8TupE8w&t=2280s
+- Documentação: https://www.zabbix.com/documentation/6.0/en/manual/api
+- Vídeo: https://www.youtube.com/watch?v=geCC8TupE8w&t=2280s
 
 ## Passos:
 
